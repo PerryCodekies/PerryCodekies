@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/PerryCodekies/PerryCodekies/main/Banner.png)
+
 ### Hey there 👋
 
 Welcome! This is /ˈper.iˈkəʊd.kiz/. I got my [BEng in Computer Science](https://www.cse.ust.hk/ug/comp/) 🎓 in [HKUST](https://hkust.edu.hk/) 🏫 and use [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://java.com/) & [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/) since then. It has been 5 years already 🎉.
