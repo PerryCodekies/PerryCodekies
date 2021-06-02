@@ -60,6 +60,7 @@ I built myself a home server using [Unraid](https://unraid.net/) from scratch, i
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)](https://grafana.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white)](https://www.influxdata.com/)
 [![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=flat&logo=let’s-encrypt&logoColor=white)](https://letsencrypt.org/)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)](https://mariadb.org/)
 [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white)](https://www.nginx.com/)
