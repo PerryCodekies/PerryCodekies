@@ -11,33 +11,6 @@ During my internship when I was a uni student, I engaged in a system revamp for 
 - 2018: International English Language Testing System (IELTS), Overall Band Score: `7.5`
 - 2017: [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://www.oracle.com/) Oracle Certified Associate, [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://java.com/) Java SE 7 Programmer 
 
-## Languages🌏 & Tools🛠️
-
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://java.com/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
-
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
-[![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=Gitea&logoColor=white)](https://gitea.io/)
-
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white)](https://www.eclipse.org/)
-[![Apache Netbeans IDE](https://img.shields.io/badge/-Netbeans-1B6AC6?style=flat&logo=Apache-Netbeans-IDE&logoColor=white)](https://netbeans.apache.org/)
-
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://www.android.com/)
-
 ## About myself 💭
 
 <!--
@@ -70,6 +43,33 @@ I built myself a home server using [Unraid](https://unraid.net/) from scratch, i
 [![Lubuntu](https://img.shields.io/badge/-Lubuntu-0068C8?style=flat&logo=Lubuntu&logoColor=white)](https://lubuntu.net/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-hk/windows)
+
+## Languages🌏 & Tools🛠️
+
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://java.com/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
+[![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat&logo=Gitea&logoColor=white)](https://gitea.io/)
+
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white)](https://www.eclipse.org/)
+[![Apache Netbeans IDE](https://img.shields.io/badge/-Netbeans-1B6AC6?style=flat&logo=Apache-Netbeans-IDE&logoColor=white)](https://netbeans.apache.org/)
+
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://www.android.com/)
 
 #### GitHub Stats
 
