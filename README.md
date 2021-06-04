@@ -6,7 +6,7 @@ Welcome! This is /ˈper.iˈkəʊd.kiz/. I got my [BEng in Computer Science](http
 
 During my internship when I was a uni student, I engaged in a system revamp for a government department and prototyped it at stage 1 of SA&D for some web UI using [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://www.javascript.com/) & [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=black)](https://jquery.com/). I also coordinated, initialized and prototyped the 1st mobile version of the revamp using [![Bootstrap](https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/) at stage 2 of SA&D and successfully delivered a satisfied result to Team Lead. 🎊
 
-### Certifications 📄
+## Certifications 📄
 
 - 2018: International English Language Testing System (IELTS), Overall Band Score: `7.5`
 - 2017: [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://www.oracle.com/) Oracle Certified Associate, [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://java.com/) Java SE 7 Programmer 
@@ -72,7 +72,9 @@ I built myself a home server using [Unraid](https://unraid.net/) from scratch, i
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-hk/windows)
 
 #### GitHub Stats
+
 ![Perry Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerryCodekies&count_private=true&show_icons=true&theme=blueberry)
 
 #### Top Languages Used
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerryCodekies&count_private=true&theme=blueberry)
